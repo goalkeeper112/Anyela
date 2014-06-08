@@ -1,0 +1,25 @@
+{
+  "name": "anyela",
+  "version": "0.0.3",
+  "description": "Anyela es lo que tú terminal necesita\n Anyela fue creada con el fin de ser una alternativa a Betty, Siri o Google Now en la alternativa, la misma es desarrollada con node.js, Anyela puede resolver tus problemas con la terminal en linux Proximamente en otras plataformas.",
+  "author": {
+    "name": "goalkeeper112",
+    "twitter": "https://twitter.com/goalkeeper112",
+    "facebook": "https://www.facebook.com/Barra.Frente.Guarenas"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://goalkeeper112@bitbucket.org/goalkeeper112/"
+  },
+  "homepage": "https://goalkeeper112@bitbucket.org/goalkeeper112/",
+  "keywords": [ "Siri", "betty", "anyela", "asistente", "terminal", "facilidad"],
+  "engines": {
+    "node": "*"
+  },
+  "dependencies":{
+    "prompt": "*",
+    "nodemailer": "*", 
+    "async": "*"
+    },
+  "readmeFilename": "README.txt"
+}
