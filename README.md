@@ -1,4 +1,4 @@
-![Anyela](https://bitbucket.org/goalkeeper112/anyela/src/4296458348c6a03eeccadcce19de77fc8c5b9650/logoAnyela.png?at=master)
+![Anyela](http://s2.subirimagenes.com/imagen/previo/thump_8946172logoanyela.png)
 # Anyela
 
 Tú asistente personal en la terminal desarrollada con node.js
